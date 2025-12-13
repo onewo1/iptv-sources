@@ -2,7 +2,7 @@
 
 Autoupdate iptv sources
 
-GitHub: [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources)
+GitHub: [onewo1/iptv-sources](https://github.com/onewo1/iptv-sources)
 
 Join discord: [![Discord](https://discord.badge.ibert.me/api/server/betxHcsTqa)](https://discord.gg/betxHcsTqa)
 
