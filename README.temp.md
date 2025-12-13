@@ -40,7 +40,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | --- | --- | ---------- |
 <!-- epgs_here -->
 
-See <https://m3u.ibert.me> to get more.
+See <https://ip.vdu.us.kg> to get more.
 
 ## LICENSE
 
