@@ -14,9 +14,9 @@
     "serve:dev": "nodemon ./dist/serve.js",
     "matrix": "node ./dist/matrix.js",
     "release": "node ./scripts/release.js",
-    "docker:build": "docker buildx build -t vanke3/iptv-sources:latest --platform=linux/arm64,linux/amd64,linux/arm/v8,linux/arm/v7 . --push",
-    "docker:build:dev": "docker buildx build -t vanke3/iptv-sources:dev --platform=linux/arm64,linux/amd64,linux/arm/v8,linux/arm/v7 . --push",
-    "docker:build:local": "docker buildx build -t vanke3/iptv-sources:dev --platform=linux/arm64,linux/amd64,linux/arm/v8,linux/arm/v7 .",
+    "docker:build": "docker buildx build -t vanke3/iptv-sources:latest --platform=linux/arm64,linux/amd64,linux/arm64/v8,linux/arm64/v7 . --push",
+    "docker:build:dev": "docker buildx build -t vanke3/iptv-sources:dev --platform=linux/arm64,linux/amd64,linux/arm64/v8,linux/arm64/v7 . --push",
+    "docker:build:local": "docker buildx build -t vanke3/iptv-sources:dev --platform=linux/arm64,linux/amd64,linux/arm64/v8,linux/arm64/v7 .",
     "push": "yarn release && git push && yarn docker:build"
   },
   "devDependencies": {
