@@ -74,7 +74,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 Updated at **Fri Dec 19 2025 11:14:36 GMT+0000 (Coordinated Universal Time)**
 
-See <https://ip.vdu.us.kg> to get more.
+See <https://m3u.vdu.us.kg> to get more.
 
 ## LICENSE
 
