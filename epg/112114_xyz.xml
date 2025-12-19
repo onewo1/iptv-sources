@@ -18225,6 +18225,9 @@
 	<programme channel="咪咕综合体育" start="20251219182500 +0800" stop="20251219184000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251219184000 +0800" stop="20251219190500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18314,6 +18317,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251219183500 +0800" stop="20251219185000 +0800">
 		<title lang="zh">睛彩圈圈点第二十一期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251219185000 +0800" stop="20251219190000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -48675,6 +48681,9 @@
 	<programme channel="纯享4K" start="20251219180200 +0800" stop="20251219184200 +0800">
 		<title lang="zh">探索b7发现4K 泗洪顺山集遗址（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251219184200 +0800" stop="20251219192200 +0800">
+		<title lang="zh">探索b7发现4K 泗洪顺山集遗址（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60552,6 +60561,9 @@
 	<programme channel="newtv古装剧场" start="20251219180100 +0800" stop="20251219184100 +0800">
 		<title lang="zh">液体海参</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251219184100 +0800" stop="20251219193200 +0800">
+		<title lang="zh">26_锦心似玉</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60873,6 +60885,9 @@
 	<programme channel="newtv爱情喜剧" start="20251219175100 +0800" stop="20251219183600 +0800">
 		<title lang="zh">30_扶摇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251219183600 +0800" stop="20251219191600 +0800">
+		<title lang="zh">液体海参</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60929,6 +60944,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251219164900 +0800" stop="20251219183300 +0800">
 		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251219183300 +0800" stop="20251219191200 +0800">
+		<title lang="zh">男士营养健康推荐</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61013,6 +61031,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251219175300 +0800" stop="20251219183200 +0800">
 		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251219183200 +0800" stop="20251219191500 +0800">
+		<title lang="zh">北京源莱慧精英vs山东好哥哥 第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -61100,6 +61121,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251219180600 +0800" stop="20251219184500 +0800">
 		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251219184500 +0800" stop="20251219193100 +0800">
+		<title lang="zh">14_蔷薇风暴</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -61469,6 +61493,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251219175100 +0800" stop="20251219183100 +0800">
 		<title lang="zh">液体海参</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251219183100 +0800" stop="20251219195100 +0800">
+		<title lang="zh">蛇王2021</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
