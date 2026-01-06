@@ -90,4 +90,4 @@
 | 84 | 魅力时尚 | IPv4 直链 | <rtp://239.3.1.196:9012> |
 | 85 | 少儿动画 | IPv4 直链 | <rtp://239.3.1.199:9000> |
 
-Updated at **Tue Jan 06 2026 14:20:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 06 2026 16:25:01 GMT+0000 (Coordinated Universal Time)**
