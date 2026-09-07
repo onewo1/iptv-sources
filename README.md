@@ -72,7 +72,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Mon Sep 07 2026 19:34:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 07 2026 22:28:51 GMT+0000 (Coordinated Universal Time)**
 
 See <https://ip.vdu.us.kg> to get more.
 
